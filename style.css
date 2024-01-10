@@ -190,7 +190,7 @@ padding: 8px 9px;
    
    @media only screen and (max-width:900px) {
        .menubar{
-        font-size: x-small;
+        font-size: xx-small;
         justify-content: left;
        }
        .all,.side{
