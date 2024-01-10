@@ -186,6 +186,7 @@ padding: 8px 9px;
        .menubar{
           font-size: x-small;
        }
+
       }
    
    @media only screen and (max-width:900px) {
@@ -193,13 +194,19 @@ padding: 8px 9px;
         font-size: xx-small;
         justify-content: left;
        }
+       
        .all,.side{
            display: none;
        }
+       .headings p{
        
+        padding: 8px 4px;
+    }
+
+}
         
    
-   }
+   
 .hero{
    background: #bacfd2;
 }
